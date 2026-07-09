@@ -35,7 +35,4 @@ export const announcements = [
 ];
 
 export const activities = [
-  { id: 1, title: "Rapat Bulanan RT", date: "2023-10-30", time: "19:30 WIB", location: "Balai RW 05", status: "Akan Datang" },
-  { id: 2, title: "Senam Pagi Bersama", date: "2023-10-29", time: "06:00 WIB", location: "Lapangan RW 05", status: "Berlangsung" },
-  { id: 3, title: "Penyuluhan Kesehatan", date: "2023-10-28", time: "09:00 WIB", location: "Posyandu Mawar", status: "Selesai" },
 ];
